@@ -56,7 +56,7 @@ jobs:
           plugin_lines_sections: base
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://www.lynx3.top/
+          plugin_pagespeed_url: https://www.lynx3.cc/
           plugin_reactions: yes
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
